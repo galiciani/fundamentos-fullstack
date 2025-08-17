@@ -21,19 +21,6 @@ Acesse o projeto publicado pelo **GitHub Pages**:
    ```bash
    git clone https://github.com/SEU-USUARIO/fundamentos-fullstack.git
 
-# 🖥️ Fundamentos Fullstack
-
-Projeto criado para praticar **HTML**, **CSS** e conceitos essenciais de desenvolvimento **Fullstack**.  
-A ideia é evoluir do básico ao avançado, mantendo sempre um layout moderno e responsivo.
-
-![preview](img/preview.png) <!-- imagem de prévia do site (adicione um print seu na pasta img) -->
-
----
-
-## 🚀 Visualização Online
-🔗 [Acesse aqui](https://SEU-USUARIO.github.io/fundamentos-fullstack/)  
-*(substitua `SEU-USUARIO` pelo seu nome no GitHub)*
-
 ---
 
 ## 📊 Status do Projeto
