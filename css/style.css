@@ -10,8 +10,13 @@ p {
 }
 
 .container {
-  max-width: 100%;
-  padding: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
 }
 
 img, video {
@@ -20,18 +25,15 @@ img, video {
 }
 
 @media (max-width: 768px) {
-  body {
-    padding: 10px;
-    font-size: 16px;
-  }
-
   .container {
     flex-direction: column;
     align-items: center;
   }
-
-  header nav ul {
+  .row {
     flex-direction: column;
+  }
+  .navbar-nav {
     gap: 10px;
   }
+
 }
